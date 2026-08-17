@@ -130,13 +130,8 @@ The following preprocessing steps were performed:
 
 **GitHub Repository:**
 
-> **[PASTE YOUR GITHUB REPOSITORY LINK HERE]**
+> **https://github.com/prasnajit-bits/ML_Assignment_2.git**
 
-Example:
-
-```text
-https://github.com/prasnajit-bits/ML_Assignment_2.git
-```
 
 ### Repository Structure
 
