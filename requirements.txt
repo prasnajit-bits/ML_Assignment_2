@@ -1,6 +1,6 @@
 streamlit
-pandas
-numpy
+pandas==2.3.3
+numpy==2.2.6
 scikit-learn==1.6.1
 joblib==1.5.3
 matplotlib
