@@ -77,7 +77,7 @@ st.divider()
 # MODEL CONFIGURATION
 # ============================================================
 
-MODEL_DIR = "models"
+MODEL_DIR = "Models"
 
 MODEL_FILES = {
     "Logistic Regression": "logistic_regression.pkl",
